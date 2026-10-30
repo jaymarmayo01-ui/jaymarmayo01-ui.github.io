@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.trustnocheese",
-        "sha256_cert_fingerprints": ["09:AE:36:00:F0:55:0B:50:45:23:83:62:18:B2:29:54:61:9F:B2:E8:DC:DB:9F:91:C9:D2:7C:F5:3F:94:6E:98"]
+        "sha256_cert_fingerprints": ["9F:D7:9D:B6:97:0E:1B:B9:A4:6B:21:C7:43:1F:81:80:72:04:6C:09:96:5C:5B:4B:C5:ED:76:25:B7:78:43:9E"]
       }
     }]
