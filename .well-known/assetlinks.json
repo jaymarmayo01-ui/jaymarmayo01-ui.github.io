@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.trustnocheese",
+        "sha256_cert_fingerprints": ["09:AE:36:00:F0:55:0B:50:45:23:83:62:18:B2:29:54:61:9F:B2:E8:DC:DB:9F:91:C9:D2:7C:F5:3F:94:6E:98"]
+      }
+    }]
